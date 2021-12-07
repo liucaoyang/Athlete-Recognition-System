@@ -21,6 +21,7 @@ Once you enter the features page, start selecting from two features. Clicking on
 In this section, the images of the athletes are selected from the phone’s photo album so that the corresponding comparisons can be made and
 the relevant information can be output at the same time. In this part, I use mtcnn for face detection and alignment and cropping, and
 embedding the cropped face using facenet. And these are the relevant knowledge learned in Lab3.
+
 ## Future Extension
 Regarding the future optimization and expansion, I have considered two main aspects. On the one hand, optimize the UI interface,
 beautify the appearance of the system, and improve the interaction between the app and users. On the other hand, I am ready to enrich
